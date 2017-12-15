@@ -1,0 +1,2 @@
+Unemployment data drawn from Bureau of Labor Statistics, 02/2017: https://www.bls.gov/lau/#tables
+County geometries drawn from Cartographic Boundary Shapefiles: https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
