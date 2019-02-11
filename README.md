@@ -1,7 +1,7 @@
 # Interactive Choropleth Map of Oregon Unemployment
 Choropleth map of unemployment 2006 to 2015
-<b>Key map features:<b/> 
-<ul>
+<b>Key map features include:<b\>
+
 <li>slider bar for changing year
 <li>pop-up box when hovering over counties (box displays county name and unemployment rate), and legend year that updates based on the year chosen by the slider bar.</li>
 <li>Load two external files, a GeoJSON and a CSV, at runtime.</li>
