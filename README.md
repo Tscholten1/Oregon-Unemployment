@@ -1,16 +1,13 @@
 # Interactive Choropleth Map of Oregon Unemployment
 Choropleth map of unemployment 2006 to 2015
 <b>Key map features<b/>: 
-    <ul>
-    <li>slider bar for changing year
-    <li>pop-up box when hovering over counties (box displays county name and unemployment rate), and legend year that updates based on the year chosen by the slider bar.</li>
-<ul/>
-
-<ul><ul/>
-<ul>Load two external files, a GeoJSON and a CSV, at runtime.<ul/>
-<ul/>Process these data, binding attribute data to geometries.<ul/>
-<ul>Draw a classed choropleth map of unemployment rates for US counties using an appropriate classification method, e.g.,
-ckmeans or quantile, or quartile and a sequential color scheme.<ul/>
+<ul>
+<li>slider bar for changing year
+<li>pop-up box when hovering over counties (box displays county name and unemployment rate), and legend year that updates based on the year chosen by the slider bar.</li>
+<li>Load two external files, a GeoJSON and a CSV, at runtime.</li>
+<li>Process these data, binding attribute data to geometries.</li>
+<li>Draw a classed choropleth map of unemployment rates for US counties using an appropriate classification method, e.g.,
+ckmeans or quantile, or quartile and a sequential color scheme.</li>
 <ul>Draw an accompanying legend with an appropriate legend title and class break labels.<ul/>
 <ul>Display the map at 100% width and height of the browser window's viewport.<ul/>
 <ul>Allow the user to zoom and pan.<ul/>
