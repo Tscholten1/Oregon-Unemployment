@@ -16,3 +16,5 @@ ckmeans or quantile, or quartile and a sequential color scheme.</li>
 <li>A visual affordance when the user hovers over specific counties (e.g., making the stroke of the county yellow).</li>
 <li>A tooltip triggered when the user clicks on a specific county, which provides the name of the county and the specific
 unemployment rate for the currently displayed year.</li>
+</ul>
+    
